@@ -10,6 +10,7 @@
     <form id="form1" runat="server">
         <div>
             <asp:Label ID="lblTest" runat="server" Text="This is a test label"></asp:Label>
+            <asp:Label ID="lblTestBranch" runat="server" Text="This is to test the branch"></asp:Label>
         </div>
     </form>
 </body>
